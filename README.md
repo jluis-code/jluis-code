@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jluis-code
+- 👋 Hi, I’m José Luis - @jluis-code
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently working and learning on Flutter
 
