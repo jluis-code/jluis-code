@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jluis-code
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently worling and learning on Flutter
 
 <!---
 jluis-code/jluis-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
